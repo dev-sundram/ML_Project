@@ -6,4 +6,4 @@ step 2/2 video make a src folder and 2 folder components , pipeline init and 2 f
          1 exception.py which use for handle exceptions 
          2 logger.py which record your milestone which you reach when you run this code 
 
-step 3 
+step 3/3 do a EDA in we take dataset , analysis it , clean and remove duplicate , visualize it , change categorical data into numerical data with help of onehot encoding and train and test all done in ipynb file 
